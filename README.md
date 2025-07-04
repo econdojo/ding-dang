@@ -3,7 +3,7 @@
 <h1 align="center">🐾 叮当的相册 🐾</h1>
 
 <p align="center">
-  <img src="pic/photo_001.jpg" alt="叮当封面照" width="220" style="border-radius: 16px; box-shadow: 0 4px 12px #ccc;">
+  <img src="pic/photo_016.jpg" alt="叮当封面照" width="220" style="border-radius: 16px; box-shadow: 0 4px 12px #ccc;">
 </p>
 
 <p align="center">
@@ -17,47 +17,52 @@
 
 <table>
   <tr>
-    <td><img src="pic/photo_024.jpg" width="120"></td>
+    <td><img src="pic/photo_028.jpg" width="120"></td>
+    <td><img src="pic/photo_027.jpg" width="120"></td>
+    <td><img src="pic/photo_026.jpg" width="120"></td>
+  </tr>
+  <tr>
     <td><img src="pic/photo_025.jpg" width="120"></td>
-    <td><img src="pic/photo_001.jpg" width="120"></td>
-  </tr>
-  <tr>
-    <td><img src="pic/photo_002.jpg" width="120"></td>
-    <td><img src="pic/photo_003.jpg" width="120"></td>
-    <td><img src="pic/photo_004.jpg" width="120"></td>
-  </tr>
-  <tr>
-    <td><img src="pic/photo_005.jpg" width="120"></td>
-    <td><img src="pic/photo_006.jpg" width="120"></td>
-    <td><img src="pic/photo_007.jpg" width="120"></td>
-  </tr>
-  <tr>
-    <td><img src="pic/photo_008.jpg" width="120"></td>
-    <td><img src="pic/photo_009.jpg" width="120"></td>
-    <td><img src="pic/photo_010.jpg" width="120"></td>
-  </tr>
-  <tr>
-    <td><img src="pic/photo_011.jpg" width="120"></td>
-    <td><img src="pic/photo_012.jpg" width="120"></td>
-    <td><img src="pic/photo_013.jpg" width="120"></td>
-  </tr>
-  <tr>
-    <td><img src="pic/photo_014.jpg" width="120"></td>
-    <td><img src="pic/photo_015.jpg" width="120"></td>
-    <td><img src="pic/photo_016.jpg" width="120"></td>
-  </tr>
-  <tr>
-    <td><img src="pic/photo_017.jpg" width="120"></td>
-    <td><img src="pic/photo_018.jpg" width="120"></td>
-    <td><img src="pic/photo_019.jpg" width="120"></td>
-  </tr>
-  <tr>
-    <td><img src="pic/photo_020.jpg" width="120"></td>
-    <td><img src="pic/photo_021.jpg" width="120"></td>
-    <td><img src="pic/photo_022.jpg" width="120"></td>
-  </tr>
-  <tr>
+    <td><img src="pic/photo_024.jpg" width="120"></td>
     <td><img src="pic/photo_023.jpg" width="120"></td>
+  </tr>
+  <tr>
+    <td><img src="pic/photo_022.jpg" width="120"></td>
+    <td><img src="pic/photo_021.jpg" width="120"></td>
+    <td><img src="pic/photo_020.jpg" width="120"></td>
+  </tr>
+  <tr>
+    <td><img src="pic/photo_019.jpg" width="120"></td>
+    <td><img src="pic/photo_018.jpg" width="120"></td>
+    <td><img src="pic/photo_017.jpg" width="120"></td>
+  </tr>
+  <tr>
+    <td><img src="pic/photo_016.jpg" width="120"></td>
+    <td><img src="pic/photo_015.jpg" width="120"></td>
+    <td><img src="pic/photo_014.jpg" width="120"></td>
+  </tr>
+  <tr>
+    <td><img src="pic/photo_013.jpg" width="120"></td>
+    <td><img src="pic/photo_012.jpg" width="120"></td>
+    <td><img src="pic/photo_011.jpg" width="120"></td>
+  </tr>
+  <tr>
+    <td><img src="pic/photo_010.jpg" width="120"></td>
+    <td><img src="pic/photo_009.jpg" width="120"></td>
+    <td><img src="pic/photo_008.jpg" width="120"></td>
+  </tr>
+  <tr>
+    <td><img src="pic/photo_007.jpg" width="120"></td>
+    <td><img src="pic/photo_006.jpg" width="120"></td>
+    <td><img src="pic/photo_005.jpg" width="120"></td>
+  </tr>
+  <tr>
+    <td><img src="pic/photo_004.jpg" width="120"></td>
+    <td><img src="pic/photo_003.jpg" width="120"></td>
+    <td><img src="pic/photo_002.jpg" width="120"></td>
+  </tr>
+  <tr>
+    <td><img src="pic/photo_001.jpg" width="120"></td>
     <td></td>
     <td></td>
   </tr>
