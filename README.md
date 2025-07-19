@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td></td>
-    <td></td>
+    <td><img src="pic/photo_029.jpg" width="120"></td>
     <td><img src="pic/photo_028.jpg" width="120"></td>
     <td><img src="pic/photo_027.jpg" width="120"></td>
     <td><img src="pic/photo_026.jpg" width="120"></td>
